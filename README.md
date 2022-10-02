@@ -38,7 +38,7 @@ Student at International Institute of Information Technology, Pune.
 
 <img width="46%" src="https://github-readme-stats.vercel.app/api?username=IamsahilPhadtare&theme=gotham&hide_border=false&include_all_commits=false&count_private=false" />
 
-<img width="46%" src="https://github-readme-streak-stats.herokuapp.coIamsahilPhadtare&theme=gotham&hide_border=false" />
+<img width="46%" src="https://github-readme-streak-stats.herokuapp.com/?user=IamsahilPhadtare&theme=gotham&hide_border=false" />
 
 </div>
 
