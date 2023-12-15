@@ -22,7 +22,10 @@ Student at International Institute of Information Technology, Pune.
 
 - 📫 How to reach me: sahil.sunil.phadtare.33@gmail.com
 
-![Profile views](https://gpvc.arturio.dev/IamsahilPhadtare)  
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/AranavMahalpure/count.svg" />
+</p>
 
 
 
@@ -41,6 +44,6 @@ Student at International Institute of Information Technology, Pune.
 <img width="46%" src="https://github-readme-streak-stats.herokuapp.com/?user=IamsahilPhadtare&theme=gotham&hide_border=false" />
 
 </div>
+<img align="center" width='800' height="300" src="https://github-readme-streak-stats.herokuapp.com/?user=IamsahilPhadtare&" alt="IamsahilPhadtare" />
 
-[![Sahil's github activity graph](https://activity-graph.herokuapp.com/graph?username=IamsahilPhadtare&theme=gotham)](https://github.com/IamsahilPhadtare)
 [![@Iamsahilphadtare's Holopin board](https://holopin.io/api/user/board?user=iamsahilphadtare9)](https://holopin.io/@iamsahilphadtare9)
